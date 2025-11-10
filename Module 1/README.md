@@ -15,3 +15,7 @@ Il a une note de A.
 ## Exercice 3
 #### Créer un programme qui permet d'afficher une liste de variable parmis la liste suivante (int, long, short, float, double et char).
 #### L'objectif sera alors d'afficher le contenu de la variable ainsi que la taille qu'elle occupe en mémoire.
+## Exercice 4
+#### Faire en sorte de demander à l'utilisateur de rentrer son âge et sa taille au clavier.
+#### Demander en plus deux caractères pour symboliser ses initiales.
+#### Afficher ces informations.
