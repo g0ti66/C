@@ -12,3 +12,6 @@
 L'utilisateur a 23 ans et mesure 1.72m.
 Il a une note de A.
 ```
+## Exercice 3
+#### Créer un programme qui permet d'afficher une liste de variable parmis la liste suivante (int, long, short, float, double et char).
+#### L'objectif sera alors d'afficher le contenu de la variable ainsi que la taille qu'elle occupe en mémoire.
