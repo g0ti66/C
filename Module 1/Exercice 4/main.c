@@ -15,7 +15,6 @@ int main()
 
     char initialUn, initialDeux;
     printf("Entrez vos initiales : ");
-    // Espace important au moment du char
     scanf("%c%c", &initialUn, &initialDeux);
 
     printf("Vous avez %d ans et vous mesurez %.2fm.\n", age, taille);

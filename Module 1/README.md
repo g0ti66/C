@@ -19,3 +19,11 @@ Il a une note de A.
 #### Faire en sorte de demander à l'utilisateur de rentrer son âge et sa taille au clavier.
 #### Demander en plus deux caractères pour symboliser ses initiales.
 #### Afficher ces informations.
+```
+Entrez votre âge : 15
+Entrez votre taille (en mètres) : 1.65
+Entrez vos initiales : DF
+
+Vous avez 15 ans et vous mesurez 1.65m.
+Vos initiales sont D.F
+```
