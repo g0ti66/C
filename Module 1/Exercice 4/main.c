@@ -10,11 +10,13 @@ int main()
     printf("Entrez votre taille (en mètres) : ");
     scanf("%f", &taille);
 
-    char initialUn;
-    char initialDeux;
+    // Vider le buffer pour éviter que %c lise le saut à la ligne
+    fflush(stdin);
+
+    char initialUn, initialDeux;
     printf("Entrez vos initiales : ");
     // Espace important au moment du char
-    scanf(" %c %c", &initialUn, &initialDeux);
+    scanf("%c%c", &initialUn, &initialDeux);
 
     printf("Vous avez %d ans et vous mesurez %.2fm.\n", age, taille);
     printf("Vos initiales sont %c.%c", initialUn, initialDeux);
