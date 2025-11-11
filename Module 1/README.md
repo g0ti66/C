@@ -27,3 +27,6 @@ Entrez vos initiales : DF
 Vous avez 15 ans et vous mesurez 1.65m.
 Vos initiales sont D.F
 ```
+## Exercice 5
+#### Afficher le code ASCII (décimal) d'une lettre écrite par l'utilisateur
+#### Afficher également le code ASCII en hexadécimal
