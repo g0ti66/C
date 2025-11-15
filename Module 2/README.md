@@ -5,3 +5,7 @@
 #### Faire en sorte de pouvoir changer facilement de taux de change dans le code.
 ## Exercice 2
 #### Créer un programme qui permet d'inverser le contenu de deux variables.
+## Exercice 3
+#### Demander à l'utilisateur de rentrer 3 entiers.
+#### Faire la somme de ces 3 entiers et l'afficher.
+#### Faire la moyenne de ces 3 entiers er l'afficher.
