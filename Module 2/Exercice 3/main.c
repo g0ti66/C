@@ -18,7 +18,10 @@ int main()
 
     printf("\n");
 
-    printf("La somme des trois entier est %d\n", x + y + z);
+    printf("La somme des trois entiers est %d\n", x + y + z);
+
+    // Conversion des etiers en flottant
+    printf("La somme des trois entiers est %.2f\n", ((float)x + (float)y + (float)z) / 3);
 
     return 0;
 }
