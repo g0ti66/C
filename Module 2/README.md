@@ -9,3 +9,7 @@
 #### Demander à l'utilisateur de rentrer 3 entiers.
 #### Faire la somme de ces 3 entiers et l'afficher.
 #### Faire la moyenne de ces 3 entiers er l'afficher.
+## Exercice 4
+#### Lire une longueur et un largeur au clavier.
+#### Calculer et afficher le périmètre d'un rectangle.
+#### Caluler et afficher la surface d'un rectangle.
