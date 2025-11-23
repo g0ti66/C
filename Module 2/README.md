@@ -13,3 +13,12 @@
 #### Lire une longueur et un largeur au clavier.
 #### Calculer et afficher le périmètre d'un rectangle.
 #### Caluler et afficher la surface d'un rectangle.
+## Exercice 5
+#### Créer un programme permettant de faire des calculs géométriques d'un cercle
+- Demander le rayon
+- Calculer son diamètre
+- Calculer sa circonférence
+- Calculer son aire
+#### Puis d'un cylindre
+- Demander sa hauteur
+- Calculer son volume
