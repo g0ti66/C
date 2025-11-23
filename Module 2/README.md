@@ -22,3 +22,5 @@
 #### Puis d'un cylindre
 - Demander sa hauteur
 - Calculer son volume
+## Exercice 6
+#### Demander à l'utilisateur de rentrer une lettre en minuscule et la convertir en majuscule
