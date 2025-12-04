@@ -1,4 +1,4 @@
-# Module 1
+# Module 1 : Les bases en C
 ## Exercice 1
 #### Écrire un programme qui écrit "Hello World!"
 ## Exercice 2

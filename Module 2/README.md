@@ -1,4 +1,4 @@
-# Module 2
+# Module 2 : Les opérateurs en C
 ## Exercice 1
 #### Créer un programme qui fait la lecture, au clavier, d'un montant en €.
 #### Faire la conversion de € vers $ et l'afficher.
