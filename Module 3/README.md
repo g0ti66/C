@@ -5,3 +5,7 @@
 ## Exercice 2
 #### Demander à l'utilisateur de rentrer un nombre entier
 #### Faire en sorte d'afficher un espace entre  les milliers et les centaines lors de l'affichage de la saisie utilisateur. Par exemple 9235 donne 9 235
+## Exercice 3
+#### Demander à l'utilisateur d'entrer deux nombres
+#### Afficher si les nombres sont égaux ou non
+#### Dans le cas où les nombres sont différents, indiquer lequel est supérieur à l'autre et indiquer l'écart
