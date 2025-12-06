@@ -9,3 +9,7 @@
 #### Demander à l'utilisateur d'entrer deux nombres
 #### Afficher si les nombres sont égaux ou non
 #### Dans le cas où les nombres sont différents, indiquer lequel est supérieur à l'autre et indiquer l'écart
+## Exercice 4
+#### Demander à l'utilisateur d'entrer un numéro de jour de la semaine
+#### Afficher le nom du jour de la semaine en fonction de la saisie utilisateur
+#### Gérer le cas où l'utilisateur rentre un numéro invalide
