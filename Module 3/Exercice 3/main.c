@@ -30,6 +30,5 @@ int main()
             printf("%d est supérieur à %d de %d\n", nbUn, nbDeux, pas);
         }
     }
-
     return 0;
 }
