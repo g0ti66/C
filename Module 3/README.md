@@ -21,3 +21,6 @@
 - 3 : Bière
 #### Afficher le nom de la boisson servie au client
 #### Il est interdit de servir de l'alcool aux mineurs, demander, seulement si nécessaire, l'âge du client
+## Exercice 6
+#### Demander à l'utilisateur de rentrer un nombre entiier
+#### Afficher si le nombre est pair ou impair
