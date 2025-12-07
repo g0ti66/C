@@ -1,4 +1,4 @@
-# Module 3 Les conditions en C
+# Module 3 : Les conditions en C
 ## Exercice 1
 #### Demander à l'utilisateur de rentrer son âge
 #### En fonction de son âge, afficher à l'utilisateur s'il est majeur ou non
@@ -13,3 +13,11 @@
 #### Demander à l'utilisateur d'entrer un numéro de jour de la semaine
 #### Afficher le nom du jour de la semaine en fonction de la saisie utilisateur
 #### Gérer le cas où l'utilisateur rentre un numéro invalide
+## Exercice 5
+#### Demander au client ce qu'il souhaite boire
+- 0 : Rien
+- 1 : Coca
+- 2 : Café
+- 3 : Bière
+#### Afficher le nom de la boisson servie au client
+#### Il est interdit de servir de l'alcool aux mineurs, demander, seulement si nécessaire, l'âge du client
