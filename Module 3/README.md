@@ -27,3 +27,9 @@
 ## Exercice 7
 #### Demander à l'utilisateur de rentrer un nombre (float)
 #### Afficher si le nombre est entier (exemple : 2.0) ou non (exemple : 2.51)
+## Exercice 8
+#### Demander à l'utilisateur de rentrer un nombre entier
+#### afficher si le nombre est un carré parfait on non. on rappelle qu'un entier est un carré parfait, si la racine carré est entière.
+- 1=1x1
+- 4=2x2
+- 9=3x3
