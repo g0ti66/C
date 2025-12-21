@@ -25,5 +25,5 @@
 #### Demander à l'utilisateur de rentrer un nombre entier
 #### Afficher si le nombre est pair ou impair
 ## Exercice 7
-#### Demander à l'utilisateur de rentrer unnombre (float)
+#### Demander à l'utilisateur de rentrer un nombre (float)
 #### Afficher si le nombre est entier (exemple : 2.0) ou non (exemple : 2.51)
