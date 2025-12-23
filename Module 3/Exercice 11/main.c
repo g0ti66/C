@@ -15,8 +15,6 @@ int main()
     printf("Veuiller saisir le deuxième nombre : ");
     scanf("%d", &nbDeux);
 
-    // printf("%d\n", op);
-
     if (op != 42 && op != 43 && op != 45 && op != 47)
     {
         printf("Opérateur invalide\n");
