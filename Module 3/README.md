@@ -37,3 +37,7 @@
 #### Demander à l'utilisateur de rentrer une date
 #### Afficher la date de la manière suivante : jj mois aaaa
 - Exemple : 3 mars 2018
+## Exercice 10
+#### Demander à l'utilisateur de donner un caractère du tableau ASCII
+#### Afficher si la saisie est un chiffre, une lettre ou un caractère spécial
+#### Dans le cas d'une lettre, dire si c'est une majuscule ou une minuscule
