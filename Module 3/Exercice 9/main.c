@@ -15,21 +15,15 @@ int main()
         printf("Erreur de saisie\n");
         return 1;
     }
-    else if (mois == 2)
+    else if (mois == 2 && jour > 29)
     {
-        if (jour > 29)
-        {
-            printf("Erreur de saisie\n");
-            return 1;
-        }   
+        printf("Erreur de saisie\n");
+        return 1;  
     }
-    else if (mois == 4 || mois == 6 || mois == 9 || mois == 11)
+    else if ((mois == 4 || mois == 6 || mois == 9 || mois == 11) && jour > 30)
     {
-        if (jour > 30)
-        {
-            printf("Erreur de saisie\n");
-            return 1;
-        }
+        printf("Erreur de saisie\n");
+        return 1;
     }
     else
     {
