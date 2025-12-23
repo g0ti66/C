@@ -27,7 +27,5 @@ int main(){
     {
         printf("Caractère non reconnu\n");
     }
-
-
     return 0;
 } 
