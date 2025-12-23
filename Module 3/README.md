@@ -41,3 +41,7 @@
 #### Demander à l'utilisateur de donner un caractère du tableau ASCII
 #### Afficher si la saisie est un chiffre, une lettre ou un caractère spécial
 #### Dans le cas d'une lettre, dire si c'est une majuscule ou une minuscule
+## Exercice 11
+#### Créer une calculatrice
+#### Demander à l'utilisateur de saisir deux nombres entiers ainsi qu'un opérateur
+#### Afficher le résultat de l'opération
