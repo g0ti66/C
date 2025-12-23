@@ -33,3 +33,7 @@
 - 1=1x1
 - 4=2x2
 - 9=3x3
+## Exercice 9
+#### Demander à l'utilisateur de rentrer une date
+#### Afficher la date de la manière suivante : jj mois aaaa
+- Exemple : 3 mars 2018
