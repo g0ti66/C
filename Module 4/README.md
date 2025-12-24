@@ -7,3 +7,7 @@
 - Par pas de 1
 #### Afficher les valeurs du sinus de tous les angles de 0 à X degrés
 - Par pas de 2
+## Exercice 3
+#### Créer un programme qui demande à l'utilisateur de rentrer un code PIN à 4 chiffres
+#### Si le code n'est pas bon, afficher un message d'erreur et redemander le code
+#### Gérer un nombre maximum de tentatives
