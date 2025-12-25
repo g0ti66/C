@@ -11,3 +11,8 @@
 #### Créer un programme qui demande à l'utilisateur de rentrer un code PIN à 4 chiffres
 #### Si le code n'est pas bon, afficher un message d'erreur et redemander le code
 #### Gérer un nombre maximum de tentatives
+## Exercice 4
+#### Afficher la table ASCII ebtre la valeur décimal 32 et 126
+- Hexadécimal
+- Décimal
+- Caractère
