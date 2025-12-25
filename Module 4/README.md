@@ -16,3 +16,5 @@
 - Hexadécimal
 - Décimal
 - Caractère
+## Exercice 5
+#### Écrire un programme qui lit un entier puis détermine s'il est premier ou non
