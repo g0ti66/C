@@ -18,3 +18,6 @@
 - Caractère
 ## Exercice 5
 #### Écrire un programme qui lit un entier puis détermine s'il est premier ou non
+## Exercice 6
+#### Afficher la table de multiplication de l'entier saisie par l'utilisateur
+#### Afficher les tables de multiplication comprise entre 0 et l'entier saisie par l'utilisateur
