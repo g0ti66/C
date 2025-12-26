@@ -103,8 +103,7 @@ int main()
                 printf("Joueur : %d\n", pointUser);
 
                 printf("\n");
-            }
-              
+            }  
         }
         else
         {
