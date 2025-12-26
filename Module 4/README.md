@@ -21,3 +21,7 @@
 ## Exercice 6
 #### Afficher la table de multiplication de l'entier saisie par l'utilisateur
 #### Afficher les tables de multiplication comprise entre 0 et l'entier saisie par l'utilisateur
+## Exercice 7
+#### Créer un jeu : "Pierre Feuille Ciseaux"
+#### Le joueur va jouer contre l'ordinateur
+#### En 3 manches gagnantes
