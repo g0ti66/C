@@ -33,6 +33,6 @@
 #### Si l'utilisateur a trouvé le bon nombre alors on affiche un message de félicitation et on termine le programme
 #### Le joueur à le droit à dix tentatives
 ## Exercice 9
-#### Demander à l'utilisateur de rentrer un nombre de lignes comprisesentre 3 et 10
-#### Afficher un triangle isocèle formé d'étoile de X lignes
+#### Demander à l'utilisateur de rentrer un nombre de lignes comprises entre 3 et 10
+#### Afficher un triangle isocèle formé d'étoiles de X lignes
 - X est le nombre fourni par l'utilisateur
