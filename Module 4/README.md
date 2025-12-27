@@ -25,3 +25,10 @@
 #### Créer un jeu : "Pierre Feuille Ciseaux"
 #### Le joueur va jouer contre l'ordinateur
 #### En 3 manches gagnantes
+## Exercice 8
+#### Demander à l'utilisateur de trouver un nombre entier entre 1 et 100
+#### Il va pouvoir faire des propositions et pour chacune d'entres elles, afficher
+- C'est plus !
+- C'est moins !
+#### Si l'utilisateur a trouvé le bon nombre alors on affiche un message de félicitation et on termine le programme
+#### Le joueur à le droit à dix tentatives
